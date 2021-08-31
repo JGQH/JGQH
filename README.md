@@ -15,7 +15,7 @@ I also use **Supabase** for serverless applications, which you're currently seei
 - 👯 I’m looking to collaborate on *open source projects*
 - 🤔 I’m looking for help with *finding a job :(*
 - 💬 Ask me about ...
-- 📫 How to reach me: [My portfolio](https://jgqh.github.io/) includes a section with a *Contact* section, contact me there!
+- 📫 How to reach me: [My portfolio](https://jgqh.github.io/) includes a section with a *Contact* form, reach me using it!
 - ⚡ Fun fact: I'm looking forward to use TypeScript more and more!
 
 ![Github Langs](https://jgqh-api-jgqh.vercel.app/api/static?id=7b6f1aa5-0450-4d42-bb46-11c3acea943d)
