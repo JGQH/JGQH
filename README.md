@@ -14,7 +14,7 @@ I also use **Supabase** for serverless applications, which you're currently seei
 
 ##### If you want to fork the CMS to use it yourself, do it! No worries!
 
-- 🔭 I’m currently working on *an API that webscraps the [Hololive Website](https://hololive.hololivepro.com/en/) for the talents' information*
+- 🔭 I’m currently working on *random projects that come from [this repo](https://github.com/rickywid/app-ideas)*
 - 🌱 I’m currently learning *Vue - basics*
 - 👯 I’m looking to collaborate on *open source projects*
 - 🤔 I’m looking for help with *finding a job :(*
